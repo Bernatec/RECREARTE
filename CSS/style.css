@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Give+You+Glory&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:inherit;
+
+}
+body {
+    background-color: rgb(245, 223, 242);
+    width: 100%;
+    min-height: 100vh;
+    margin:auto;
+    max-width:540px ;
+    justify-content: center;
+    align-items: center;
+  
+    }
+    .container{
+        width: 540px;
+        margin:10px 0; 
+        padding: 2rem 0; 
+    }
+
+#title { 
+    color: rgb(199, 73, 149);
+    font-size: 45px;
+    margin:10px 0; 
+    text-align: center;
+   
+   
+    
+   }
+
+.subtitle{
+   
+    color: rgb(255, 255, 255);
+    background-color: rgb(240, 127, 255);
+    margin:10px 0; 
+  
+    font-size: 35px;
+
+ text-align: center;
+}
+
+.postdt{
+
+    
+    color: rgb(160, 33, 33);
+    font-size: 33px;
+    margin:10px 0; 
+    
+    text-align: center;
+    
+}
+.post{
+    
+    color: rgb(38, 117, 182);
+    font-size: 27px;
+    margin:10px 0; 
+   
+    text-align: center;
+   
+ 
+ 
+}
+.cidades{
+  
+    color: rgb(16, 28, 37);
+    font-size: 16px;
+    margin:10px 0; 
+   
+    text-align: center;
+  
+ 
+ 
+}
+.link{
+    
+    color: rgb(25, 149, 158);
+    font-size: 20px;
+    margin:10px 0; 
+  
+    text-align: right;
+   
+   
+    
+}
+
+.image{
+    border: 7px solid rgb(182, 152, 178);
+    border-radius: 50%; 
+    margin:10px 0; 
+  
+    text-align: center;
+  
+}
+.image2{
+    border: 7px solid rgb(182, 152, 178); 
+    margin:10px 0; 
+    text-align: center;
+  
+}
+.dev{
+   
+    color: rgb(16, 28, 37);
+    font-size: 8px;
+  
+    text-align: center;
+    
+}
+
+
+  
+
